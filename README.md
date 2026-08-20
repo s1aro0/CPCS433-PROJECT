@@ -96,3 +96,7 @@ Main libraries used:
 This project demonstrates how machine learning can be used to predict customer churn in a telecom company.
 
 It covers the main stages of a machine learning project, including data preprocessing, model training, model evaluation, and result interpretation.
+
+## Team Project
+
+This project was developed collaboratively as part of a team project. The different stages of the machine learning workflow were completed through shared work and collaboration among the team members.
